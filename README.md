@@ -4,7 +4,7 @@ A humanoid robot is a robot with its body shape built to resemble the human body
 # 1.Ocean One:
 A bimanual underwater humanoid robot created by the Stanford Robotics Lab to explore coral reefs, Ocean One can reach depths that most human beings cannot. It is a perfect synergy of robotics, haptic feedback systems and artificial intelligence. 
 [Image of ocean Humanoid](https://images.app.goo.gl/4Ziz4QEr5kSEDfvg9)
-![Ocean Humanoid](ocaenone.jpg)
+![Ocean Humanoid](oceanone.jpg)
 # 2.ATLAS:
 Described as “the world’s most dynamic humanoid” by its creators, ATLAS was unveiled in 2013. It was built to carry out search and rescue missions and was developed by Boston Dynamics with funding and supervision from the United States Defense Advanced Research Projects Agency (DARPA). It can navigate its way through tough terrain and obstacles in its path using its range sensing, stereo vision, and other sensors.
 (https://images.app.goo.gl/2NXbntdyjedcyLsh9)
