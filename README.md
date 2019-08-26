@@ -15,8 +15,8 @@ Imagine a soccer match with adorable baby-sized robots on both sides. Sounds cut
 ![](Nao.jpg)
 # 4.PETMAN:
 Protection Ensemble Test Mannequin or ‘Petman’ for short, is another creation by Boston Dynamics. It was funded by US Department of Defense’s Chemical and Biological Defense program,and was developed to test biological  and chemical suits for the US military.
-[Image of Petman humanoid]()
-![Petman]()
+[Image of Petman humanoid](https://images.app.goo.gl/D3ood7xkSHF9uoBT9)
+![Petman](petman.png)
 # 5.ROBEAR
 or those who loved the adorable robot healthcare provider Baymax from the superhero movie Big Hero 6 (2014), there is an equally adorable real-life equivalent in Robear. Robear is the very definition of a ‘machine with a gentle touch’. Developed by scientists from RIKEN and Sumitomo Riko Company Limited, this experimental robot was considered as a possible solution to the problem of increasing shortage of caregivers that Japan is set to witness over the course of this century.
 [Image pf Robear humanoid]()
