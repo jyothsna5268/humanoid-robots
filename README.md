@@ -12,4 +12,4 @@ Described as “the world’s most dynamic humanoid” by its creators, ATLAS wa
 # 3.NAO:
 Imagine a soccer match with adorable baby-sized robots on both sides. Sounds cute, doesn’t it? Nao, the 23 inch robot has an entire event, RoboCup Standard Platform League, dedicated to it as a part of Robocup.
 [Image of Nao Humanoid](https://images.app.goo.gl/7iPBgSRNXetQXDah9)
-![Nao](248-2485979_robot-png-image-with-transparent-background-nao-humanoid.png)
+![Nao](Nao.jpg)
