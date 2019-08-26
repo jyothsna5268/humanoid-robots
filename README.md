@@ -2,12 +2,19 @@
 A humanoid robot is a robot with its body shape built to resemble the human body. The design may be for functional purposes, such as interacting with human tools and environments, for experimental purposes, such as the study of bipedal locomotion, or for other purposes.
 # 7 Popular Humanoid Robots Designed With Closest Semblance To Humans
 They are
+
 -Ocean one
+
 -Atlas
+
 -Nao
+
 -Petman
+
 -Robear
+
 -Pepper
+
 -Sophia
 ## 1.OCEAN ONE:
 A bimanual underwater humanoid robot created by the Stanford Robotics Lab to explore coral reefs, Ocean One can reach depths that most human beings cannot. It is a perfect synergy of robotics, haptic feedback systems and artificial intelligence. 
@@ -37,3 +44,4 @@ There could be nothing cooler than a robot that can read primary human emotions 
 Said to be modelled on Hollywood legend Audrey Hepburn, Sophia was developed by roboticist David Hanson and his company Hanson Robotics. She was activated in April 2015 and came to international renown in October 2017 after she was granted citizenship by the Kingdom of Saudi Arabia.
 [Image of Sophia Humanoid](https://images.app.goo.gl/Zh94DUVoiKvLLKQE7)
 ![Sophia](https://starsinformer.com/wp-content/uploads/2018/02/Sophia-Robot.jpg)
+Reference:https://www.analyticsindiamag.com/best-humanoid-robots-2018/
